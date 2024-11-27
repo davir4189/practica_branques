@@ -1,1 +1,2 @@
 Contingut inicial de text2.txt
+Canvi remot a branca-nova1
